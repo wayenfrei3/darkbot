@@ -1,12 +1,11 @@
-# Acadia Forum
-Acadia forum Darknet forum
+# Darkbot Darknet Search Engine
+Darkbot Darknet Seearch engine 
 | Mirror  | Link  |
 | ------------- | ------------- |
-| Clearnet Mirror  | acadia.su  |
-| TOR Mirror #1 | acadiairich5ci5wdosdypkbkdl3c5b3xptk6qvfhiax7vrgpywct4id.onion  |
-| TOR Mirror #2 | acadiahack2oejjgyocvmzd4whotxuxpyfnm5mfntullswbzcfodo2id.onion  |
-| TOR Mirror #3 | acadiaommrnym7kxzwkpli33z2ted5xnynsxaxklchoefg2xtg7fuuyd.onion  |
-| TOR Mirror #4 | acadiazzolueeu5tjfs2dn6sessbgdyh74fcs55e6bx4a3umtbbjgkyd.onion  |
+| Clearnet Mirror  | darkbot.su  |
+| Clearnet Mirror #2 | darkbot.to  |
+| TOR Mirror #1 | darkbotagupnkkorhzsop4mgj5xvlmnh2k22rmwlkvurmhvtt2peq7yd.onion  |
 
 
-Acadia forum darknet forum,acadia,tor acadia ,onion acadia ,onion forums acadia forum
+
+Darkbot Search engine darkbot search darknet deepweb search verified deep web 
